@@ -1,11 +1,13 @@
 export default {
   locale: 'en',
+  editPost: 'Edit Post',
   messages: {
     siteTitle: 'MERN Starter Blog',
     addPost: 'Add Post',
     switchLanguage: 'Switch Language',
     twitterMessage: 'We are on Twitter',
     by: 'By',
+    votes: 'Votes',
     deletePost: 'Delete Post',
     createNewPost: 'Create new post',
     authorName: 'Author\'s Name',
